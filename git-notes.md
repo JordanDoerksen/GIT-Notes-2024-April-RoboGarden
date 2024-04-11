@@ -14,9 +14,10 @@
 
 ## Commands
 
-| Command               | Usage                                                                                                           |
-| --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| `git init`            | Creates a git repository in the current directory                                                               |
-| `git status`          | Display information about the current status of the git repository located in the current or parent directories |
-| `git add <file name>` | Stage a file to be committed                                                                                     |
+| Command                            | Usage                                                                                                           |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| `git init`                         | Creates a git repository in the current directory                                                               |
+| `git status`                       | Display information about the current status of the git repository located in the current or parent directories |
+| `git add <file name>`              | Stage a file to be committed                                                                                    |
+| `git commit -m "<commit message>"` | Commits a file to the local (.git) repository                                                                   |
 
