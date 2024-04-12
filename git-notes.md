@@ -1,5 +1,7 @@
 # GIT Notes - 2024 April RoboGarden
 
+> Some notes on GIT and GIT usage
+
 ## Terms
 
 | Term              | Description                                                                            |
