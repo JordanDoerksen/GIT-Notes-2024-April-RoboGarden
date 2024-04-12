@@ -29,3 +29,5 @@
 | `git push`                                                | Copy all changes from local repository to upstream repo                                                         |
 | `git fetch`                                               | Get information about the upstream repository                                                                   |
 | `git pull`                                                | Copies changes from upstream to local repository and attempts to merge conflicting files                        |
+| `git stash`                                               | Saves changes from local repository to be reapplied later                                                       |
+| `git stash pop`                                           | Takes stashed changes and applies them to the local working tree                                                |
