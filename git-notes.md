@@ -28,3 +28,4 @@
 | `git remote add origin <path_to_upstream_repository.git>` | Adds a git repository to be used as the upstream (authoritative) source                                         |
 | `git push`                                                | Copy all changes from local repository to upstream repo                                                         |
 | `git fetch`                                               | Get information about the upstream repository                                                                   |
+| `git pull`                                                | Copies changes from upstream to local repository and attempts to merge conflicting files                        |
